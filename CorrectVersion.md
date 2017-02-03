@@ -1,7 +1,7 @@
 # Permutation
 
 def permutation(newString):
-    if len(newString) == 1:
+if len(newString) == 1:
         return newString
     else:
         result = []
